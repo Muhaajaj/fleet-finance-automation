@@ -32,3 +32,7 @@ All sample files in this repo are **synthetic**. Do NOT upload real employer dat
 
 ## Tools
 Python, pandas, openpyxl, NumPy
+
+## Quick demo (synthetic)
+- Sample inputs: `data/sample/`
+- Example validation output (missing mapping): `docs/examples/missing_costcenters_example.csv`
