@@ -2,3 +2,5 @@ pandas
 openpyxl
 numpy
 python-dateutil
+fuzzywuzzy
+python-Levenshtein
