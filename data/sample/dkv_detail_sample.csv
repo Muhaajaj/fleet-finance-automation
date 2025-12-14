@@ -1,0 +1,13 @@
+Rechnung;Rechnungsdatum;Kennzeichen;USt;Wert incl. USt.1;Leistung
+Rechnung 987654321;14.12.2025;;;;Header
+;;;;;
+;;;;;
+;;;;;
+;;B AB 1234;19%;123,45;Fuel
+;;B-XY9000;19%;56,7;Fuel
+;;M OM 777;7%;10;Toll
+;;B-LK4321;19%;210;Service
+;;B ND 5555;19%;99,99;Fuel
+;;B-JW 8080;19%;45;Fuel
+;;B-JW8081;19%;60;Fuel
+;;B-MISSING1;19%;12,34;Fuel
